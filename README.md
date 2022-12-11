@@ -1,2 +1,2 @@
 # Quix
-Finance company
+## Finance company
