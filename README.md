@@ -1,2 +1,2 @@
-# Quix Web-V
+# Quix
 ## Finance
